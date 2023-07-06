@@ -13,5 +13,5 @@ console.log('Welcome to my page! 🎉')
 
 ### Github Stats:
 
-<img alt="jyoketsu's Github Stats" width="500" src="github-readme-stats-sable-nine-71.vercel.app/api?username=jyoketsu&show_icons=true&count_private=true&theme=cobalt" />
-<img alt="jyoketsu's Top Languages Card" width="500" src="github-readme-stats-sable-nine-71.vercel.app/api/top-langs/?username=jyoketsu&layout=compact&exclude_repo=nest-ui,nest,component-repository,youpu-jquery" />
+<img alt="jyoketsu's Github Stats" width="500" src="https://github-readme-stats-sable-nine-71.vercel.app/api?username=jyoketsu&show_icons=true&count_private=true&theme=cobalt" />
+<img alt="jyoketsu's Top Languages Card" width="500" src="https://github-readme-stats-sable-nine-71.vercel.app/api/top-langs/?username=jyoketsu&layout=compact&exclude_repo=nest-ui,nest,component-repository,youpu-jquery" />
