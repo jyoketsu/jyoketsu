@@ -1,4 +1,4 @@
-# joketsu
+# jyoketsu
 ```javascript
 console.log('Welcome to my page! 🎉')
 ```
