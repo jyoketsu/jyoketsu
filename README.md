@@ -15,4 +15,11 @@ console.log("Welcome to my page! 🎉");
 
 ### Github Stats:
 
-<img alt="jyoketsu's Github Stats" width="54%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=jyoketsu&show_icons=true&count_private=true&hide_border=true" /><img alt="jyoketsu's Top Languages Card" width="46%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=jyoketsu&layout=compact&hide_border=true&exclude_repo=nest-ui,nest,component-repository,youpu-jquery" />
+<img alt="jyoketsu's Github Stats" width="54.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=jyoketsu&show_icons=true&count_private=true&hide_border=true" /><img alt="jyoketsu's Top Languages Card" width="45.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=jyoketsu&layout=compact&hide_border=true&exclude_repo=nest-ui,nest,component-repository,youpu-jquery" />
+
+
+<!-- holiday-start -->
+📅 下一个节假日是：**国庆节 (2025-10-01)**
+
+⏳ 距离还有：**16 天**
+<!-- holiday-end -->
