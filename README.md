@@ -21,5 +21,5 @@ console.log("Welcome to my page! 🎉");
 <!-- holiday-start -->
 📅 下一个节假日是：**国庆节 (2025-10-01)**
 
-⏳ 距离还有：**11 天**
+⏳ 距离还有：**10 天**
 <!-- holiday-end -->
