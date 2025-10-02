@@ -23,7 +23,7 @@ console.log("Welcome to my page! 🎉");
 
 ### Next Holiday:
 <!-- holiday-start -->
-📅 下一个节假日是：**国庆节 (2025-10-01)**
+📅 下一个节假日是：**国庆节 (2025-10-02)**
 
 ⏳ 距离还有：**1 天**
 <!-- holiday-end -->
