@@ -23,10 +23,8 @@ function fetchNextHoliday(): Promise<Holiday> {
 				res.on('data', (chunk) => (data += chunk))
 				res.on('end', () => {
 					try {
-						const {
-							holiday: { name, date, rest },
-						} = JSON.parse(data) as HolidayResponse
-						console.log('rest: ', rest)
+						const res = JSON.parse(data) as HolidayResponse;
+						const { name, date, rest } = res.holiday || {};
 						resolve({ name, date, rest })
 					} catch (error) {
 						reject(error)
@@ -53,7 +51,7 @@ function updateReadme({ name, date, rest }: Holiday) {
 ${templateEnd}`
 	} else {
 		newContent = `${templateStart}
-⚠️放假安排还未确定，暂无数据
+⚠️ 放假安排还未确定，暂无数据
 ${templateEnd}`
 	}
 
