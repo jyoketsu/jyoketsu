@@ -43,11 +43,20 @@ function updateReadme({ name, date, rest }: Holiday) {
 	const templateEnd = '<!-- holiday-end -->'
 
 	const readme = readFileSync(readmePath, 'utf-8')
-	const newContent = `${templateStart}
+
+	let newContent;
+	if (name && date) {
+		newContent = `${templateStart}
 📅 下一个节假日是：**${name} (${date})**
 
 ⏳ 距离还有：**${rest} 天**
 ${templateEnd}`
+	} else {
+		newContent = `${templateStart}
+⚠️放假安排还未确定，暂无数据
+${templateEnd}`
+	}
+
 
 	const updated = readme.replace(new RegExp(`${templateStart}[\\s\\S]*?${templateEnd}`, 'g'), newContent)
 
