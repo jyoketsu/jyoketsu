@@ -23,7 +23,5 @@ console.log("Welcome to my page! 🎉");
 
 ### Next Holiday:
 <!-- holiday-start -->
-📅 下一个节假日是：**国庆节 (2025-10-08)**
-
-⏳ 距离还有：**1 天**
+⚠️ 放假安排还未确定，暂无数据
 <!-- holiday-end -->
