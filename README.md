@@ -19,7 +19,7 @@ console.log("Welcome to my page! 🎉");
 
 
 ### PSN Profile:
-<a href="https://psnprofiles.com/JYOKETSU3"><img src="https://card.psnprofiles.com/2/JYOKETSU3.png" border="0"></a>
+<a href="https://psnprofiles.com/JYOKETSU3"><img src="https://card.psnprofiles.com/1/JYOKETSU3.png" border="0"></a>
 
 ### Next Holiday:
 <!-- holiday-start -->
