@@ -23,5 +23,7 @@ console.log("Welcome to my page! 🎉");
 
 ### Next Holiday:
 <!-- holiday-start -->
-⚠️ 放假安排还未确定，暂无数据
+📅 下一个节假日是：**元旦 (2026-01-01)**
+
+⏳ 距离还有：**44 天**
 <!-- holiday-end -->
