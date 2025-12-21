@@ -25,5 +25,5 @@ console.log("Welcome to my page! 🎉");
 <!-- holiday-start -->
 📅 下一个节假日是：**元旦 (2026-01-01)**
 
-⏳ 距离还有：**13 天**
+⏳ 距离还有：**12 天**
 <!-- holiday-end -->
