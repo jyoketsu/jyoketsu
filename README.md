@@ -23,7 +23,7 @@ console.log("Welcome to my page! 🎉");
 
 ### Next Holiday:
 <!-- holiday-start -->
-📅 下一个节假日是：**元旦 (2026-01-03)**
+📅 下一个节假日是：**春节 (2026-02-15)**
 
-⏳ 距离还有：**1 天**
+⏳ 距离还有：**42 天**
 <!-- holiday-end -->
