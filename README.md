@@ -25,5 +25,5 @@ console.log("Welcome to my page! 🎉");
 <!-- holiday-start -->
 📅 下一个节假日是：**春节 (2026-02-15)**
 
-⏳ 距离还有：**35 天**
+⏳ 距离还有：**34 天**
 <!-- holiday-end -->
